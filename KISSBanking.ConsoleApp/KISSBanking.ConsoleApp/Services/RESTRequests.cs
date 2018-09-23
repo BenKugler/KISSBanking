@@ -11,7 +11,7 @@ namespace KISSBanking.ConsoleApp.Services
   /// These functions where used in a previous project I used, 
   /// only returns had to be changed
   /// </summary>
-  class RESTRequests
+  public class RESTRequests
   {
     HttpClient mClient;
     UriBuilder mRestService;

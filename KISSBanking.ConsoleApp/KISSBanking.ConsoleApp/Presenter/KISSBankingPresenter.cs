@@ -9,7 +9,7 @@ namespace KISSBanking.ConsoleApp.Presenter
   /// <summary>
   /// View presenter, communicates between model and view
   /// </summary>
-  class KISSBankingPresenter
+  public class KISSBankingPresenter
   {
     private KISSBankingModel mcModel;
     private IView mcInterfaceView;

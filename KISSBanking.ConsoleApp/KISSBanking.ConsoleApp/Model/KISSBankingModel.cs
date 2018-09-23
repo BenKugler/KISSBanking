@@ -11,7 +11,7 @@ namespace KISSBanking.ConsoleApp.Model
   /// <summary>
   /// Console Model, holds business logic and info
   /// </summary>
-  class KISSBankingModel
+  public class KISSBankingModel
   {
     private int mCurrentUserId;
     private string mLoggedInUser;
@@ -85,7 +85,7 @@ namespace KISSBanking.ConsoleApp.Model
         message = userResult.Item2;
       }
 
-      if (String.IsNullOrEmpty(userResult.Item2))
+      if (string.IsNullOrEmpty(userResult.Item2))
       {
         message = "Incorrect credentials";
       }

@@ -17,9 +17,16 @@ namespace KISSBanking.API.Providers
     /// <summary>
     /// Initlizes the database
     /// </summary>
-    public UserProvider()
+    public UserProvider(List<User> preMade = null)
     {
-      Users = new List<User>();
+      if (preMade == null)
+      {
+        Users = new List<User>();
+      }
+      else
+      {
+        Users = preMade;
+      }
     }
 
     /// <summary>
