@@ -24,7 +24,7 @@ The views will handle validation with forms and making sure input is valid, the 
 
 
 ## Schedule
-I work 10 hours Monday - Thursday, I have about 5 - 4 hours avaliable those days and then Friday - Sunday
+I work 10 hours Monday - Thursday, I have about 4 - 3 hours avaliable those days and then Friday - Sunday
 
 Tuesday(Night) | Wednesday(Night) | Thursday(Night) | Friday | Saturday
 ------------ | ------------- | ------------- | ------------- | -------------
