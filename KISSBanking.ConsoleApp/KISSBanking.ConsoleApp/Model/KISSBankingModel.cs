@@ -11,7 +11,7 @@ namespace KISSBanking.ConsoleApp.Model
   /// <summary>
   /// Console Model, holds business logic and info
   /// </summary>
-  public class KISSBankingModel
+  class KISSBankingModel
   {
     private int mCurrentUserId;
     private string mLoggedInUser;

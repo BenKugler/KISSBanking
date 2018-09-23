@@ -1,11 +1,9 @@
 using System;
 using System.Threading.Tasks;
 using KISSBanking.ConsoleApp.Models.Responses;
-using KISSBanking.ConsoleApp.View;
 using KISSBanking.ConsoleApp.View.Interfaces;
 using KISSBanking.ConsoleApp.Presenter;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using KISSBanking.ConsoleApp.Model;
 using KISSBanking.ConsoleApp.Services;
 using System.Linq;
 

@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KISSBanking.API", "KISSBanking.API.csproj", "{422DB561-40E3-4263-81A5-D4D210BB6079}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KISSBanking.API.Test", "..\KISSBanking.API.Test\KISSBanking.API.Test.csproj", "{A467C583-1A6A-43E6-AEA8-2E1C2AF6C101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KISSBanking.API.Test", "..\KISSBanking.API.Test\KISSBanking.API.Test.csproj", "{A467C583-1A6A-43E6-AEA8-2E1C2AF6C101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
